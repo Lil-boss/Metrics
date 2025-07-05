@@ -62,3 +62,5 @@ fastapi-metrics-app/
 
 ## 📃 License
 MIT
+
+- [Query Reference Guide](./QUERY.md)
